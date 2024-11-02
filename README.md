@@ -1,5 +1,5 @@
 # 💫 About Me:
-👷‍♀️- Currently learning Web Development<br><br>Languages:<br><br>Python 🐍<br>C/C++ 💾<br>JavaScript (HTML and CSS++++++) 🌐<br><br>👋 - Programming for 3 years.<br>
+👷‍♀️- Currently learning Web Development<br><br>Languages:<br><br>Python 🐍<br>C/C++ 💾<br>JavaScript (HTML and CSS++++++) 🌐<br><br>👋 - Programming for 4+ years.<br>
 
 
 ## 🌐 Socials:
